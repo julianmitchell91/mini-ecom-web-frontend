@@ -1,0 +1,28 @@
+{
+  "name": "mini-ecom-frontend-react-buggy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.7.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1",
+    "react-router-dom": "^6.26.0",
+    "react-slick": "^0.30.2",
+    "react-stars": "^2.2.5",
+    "react-toastify": "^10.0.5",
+    "tailwindcss-style-animate": "^1.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.4.7",
+    "vite": "^5.0.0"
+  }
+}
